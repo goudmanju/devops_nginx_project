@@ -32,4 +32,3 @@ services:
     service_2:
       condition: service_healthy   
    
-
