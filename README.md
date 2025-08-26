@@ -1,6 +1,6 @@
 ### 📘 Service 2 – Python Flask API
 
-This is a lightweigh HTTP service written in Python using Flask. It exposes two simple endpoints and is designed to be used behind a reverse proxy like Nginx.
+This is a lightweighT HTTP service written in Python using Flask. It exposes two simple endpoints and is designed to be used behind a reverse proxy like Nginx.
 
 ---
 
@@ -45,4 +45,5 @@ service2/
 ├── app.py
 └── README.md
 ```
+
 
